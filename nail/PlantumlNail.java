@@ -2,8 +2,8 @@ import java.lang.InterruptedException;
 import java.io.IOException;
 import java.io.File;
 
-import com.martiansoftware.nailgun.NGConstants;
-import com.martiansoftware.nailgun.NGContext;
+import com.facebook.nailgun.NGConstants;
+import com.facebook.nailgun.NGContext;
 import net.sourceforge.plantuml.FileSystem;
 import net.sourceforge.plantuml.Run;
 
